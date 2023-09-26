@@ -26,3 +26,8 @@ h1 {
     background-color: skyblue;
 }
 
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
